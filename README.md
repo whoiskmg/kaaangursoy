@@ -3,12 +3,20 @@
     <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
   </a>
 </p>
+<p align="center">Socials</p>
 <p align="center" >  
- <img  src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
- <img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
- <img  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
- <img  src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
- <img  src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
+  <a href="https://twitter.com/kmg_kaan">
+    <img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kaan-mehmet-g%C3%BCrsoy-05312b201/">
+    <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://open.spotify.com/user/jtgsu65xduo8jm39iimfnd4tv?si=1e750d9ab1da433c">
+    <img  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/id/whoiskmg/">
+    <img  src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
 </p>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -20,4 +28,4 @@
     <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jtgsu65xduo8jm39iimfnd4tv&count=1"/>
   </a>
 </p>
-
+ <img  src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
