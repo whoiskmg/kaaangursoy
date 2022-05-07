@@ -28,4 +28,3 @@
     <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jtgsu65xduo8jm39iimfnd4tv&count=1"/>
   </a>
 </p>
- <img  src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
