@@ -8,4 +8,9 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=kaaangursoy&show_icons=true&theme=radical"/>
   </a>
 </p>
+<p align="center" >  
+  <a href="https://github.com/JeffreyCA/spotify-recently-played-readme"> 
+    <img  src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1"/>
+  </a>
+</p>
 
