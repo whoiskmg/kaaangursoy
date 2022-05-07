@@ -1,6 +1,6 @@
 <p align="center" >  
   <a href="https://github.com/piyushsuthar/github-readme-quotes"> 
-    <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+    <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
   </a>
 </p>
 <p align="center" >  
