@@ -23,7 +23,7 @@
 <h1 align="center">	📊 Stats	📊 </h1>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=kaaangursoy&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=kaaangursoy&show_icons=true&theme=radical&include_all_commits=true"/>
   </a>
 </p>
 <h1 align="center"> 👩‍💻 Languages 👩‍💻 </h1>
