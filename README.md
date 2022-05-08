@@ -1,8 +1,10 @@
-<h1 align="center"></h1>
+
 <p align="center" >  
+  <h1 align="center"></h1>
   <a href="https://github.com/piyushsuthar/github-readme-quotes"> 
     <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
   </a>
+  <h1 align="center"></h1>
 </p>
 <h1 align="center">Socials</h1>
 <p align="center" >  
