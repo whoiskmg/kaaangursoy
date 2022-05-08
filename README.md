@@ -1,10 +1,10 @@
-<h1 align="center"></h1>
+<hr>
 <p align="center" >
   <a href="https://github.com/piyushsuthar/github-readme-quotes"> 
     <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
   </a>
 </p>
-<h1 align="center"></h1>
+<hr>
 <h1 align="center">Socials</h1>
 <p align="center" >  
   <a href="https://twitter.com/kmg_kaan">
