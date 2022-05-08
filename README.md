@@ -5,7 +5,7 @@
   </a>
 </p>
 <hr>
-<p style="font-size:300%;" align="center">Socials</p>
+<p style="font-size:450px;" align="center">Socials</p>
 <hr>
 <p align="center" >  
   <a href="https://twitter.com/kmg_kaan">
