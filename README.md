@@ -37,9 +37,6 @@
   <a href="https://www.typescriptlang.org/"> 
     <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
-  <a href="https://soliditylang.org/"> 
-    <img  src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
-  </a>
 </p>
 <h1 align="center"> 📚 Apps I use 📚 </h1>
 <p align="center">
